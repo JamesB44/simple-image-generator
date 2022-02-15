@@ -1,0 +1,27 @@
+#test{
+    position: absolute;
+    top: 175px;
+    left: 125px;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* padding: 250px; */
+    
+    
+    
+}
+#test3{
+    position: absolute;
+    bottom: 150px;
+    left: 125px;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+img{
+    width: 350px;
+    height: 350px;
+    top: 145px;
+    border: 1px solid black;
+    
+    border-radius: 5px;
+}
